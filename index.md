@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the best blog in the world
 
-I'm glad you are here. I plan to talk about ...
+Blah blah blah blah 
