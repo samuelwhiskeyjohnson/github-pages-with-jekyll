@@ -1,5 +1,5 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2012-11-12
 ---
 iasdhjlkahsdjlkadilk draft of blog
